@@ -1,0 +1,23 @@
+.btn-primary {
+	background-color: black;
+	color: white;
+	border-color: white;
+}
+
+.col {
+	background-color: grey;
+	border:2px solid red;
+}
+
+.jumbotron {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+}
+
+body {
+	background-color: black;
+	background-image: url(laptop.jpg);
+}
